@@ -30,7 +30,3 @@
 ### **Development Tools**
 
 ![Visual Studio Code, Git, Figma](https://skillicons.dev/icons?i=vscode,git,figma)
-
-## 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimulaco&layout=compact&langs_count=12)
