@@ -17,7 +17,7 @@
 
 ### **Frameworks & Libraries**
 
-![Vue, Nuxt.js, React, Next.js, Astro, Vite, Vitest, Gulp](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,astro,vite,vitest,gulp)
+![Vue, Nuxt.js, React, Next.js, Astro, Tailwind, Vite, Vitest, Gulp](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,astro,tailwind,vite,vitest,gulp)
 
 ### **DB**
 
@@ -25,7 +25,7 @@
 
 ### **DevOps & Infrastructure**
 
-![AWS, Vercel, Netlify, Docker, GitHub, Github Actions, GitLab, Sentry](https://skillicons.dev/icons?i=aws,vercel,netlify,docker,github,githubactions,gitlab,sentry)
+![AWS, Vercel, Netlify, Docker, GitHub, Github Actions, GitLab, Sentry, WordPress](https://skillicons.dev/icons?i=aws,vercel,netlify,docker,github,githubactions,gitlab,sentry,wordpress)
 
 ### **Development Tools**
 
