@@ -25,7 +25,7 @@
 
 ### **DevOps & Infrastructure**
 
-![AWS, Vercel, Netlify, Docker, GitHub, Github Actions, GitLab, Sentry, WordPress](https://skillicons.dev/icons?i=aws,vercel,netlify,docker,github,githubactions,gitlab,sentry,wordpress)
+![AWS, Cloudflare, Vercel, Docker, GitHub, Github Actions, GitLab, Sentry, WordPress](https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker,github,githubactions,gitlab,sentry,wordpress)
 
 ### **Development Tools**
 
